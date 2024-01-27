@@ -55,7 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>jenkins</finalName>
+		<finalName>expos-jenkins-supinfo</finalName>
 	</build>
 
 </project>
